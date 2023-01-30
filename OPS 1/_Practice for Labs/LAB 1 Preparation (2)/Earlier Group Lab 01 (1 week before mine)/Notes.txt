@@ -1,0 +1,5 @@
+*This is the final stage. Other stages are in "ALL STAGES" directory.
+
+|->Maybe: fgets + strcmp of length equal to -I arg would be better than using fgetc for -I
+
+|->NOT REALLY!!(--MAYBE - Could've probably used FTW_DP flag instead of using Global Vars to store largest filesize )
